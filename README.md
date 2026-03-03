@@ -73,6 +73,6 @@ I'm open for freelance, contract projects, and collaborations.
   Drop me a message on Telegram — let's talk code! 🦉
 </p>
 
-Made with ❤️ &nbsp; Python &nbsp;•&nbsp; Code &nbsp;•&nbsp; Coffee
-
+<div align="center">
+  Made with ❤️ &nbsp; Python &nbsp;•&nbsp; Code &nbsp;•&nbsp; Coffee
 </div>

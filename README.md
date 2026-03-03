@@ -76,3 +76,8 @@ I'm open for freelance, contract projects, and collaborations.
 <div align="center">
   Made with ❤️ &nbsp; Python &nbsp;•&nbsp; Code &nbsp;•&nbsp; Coffee
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niteo9&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteo9&theme=radical&hide_border=true" width="48%" />
+</div>

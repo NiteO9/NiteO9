@@ -63,8 +63,10 @@ I also work as a **Prompt Engineer / Context Engineer** for large language model
 
 I'm available for freelance / contract projects.
 
-→ Open DMs on Telegram  
-→ Email: [your-email-here]
+→ <a href="https://t.me/tele_t">
+  <img src="https://img.shields.io/badge/Join%20OWL-Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Join OWL">
+</a>
+→ Email: 🦉
 
 <br>
 

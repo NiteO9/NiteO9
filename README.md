@@ -63,13 +63,15 @@ I also work as a **Prompt Engineer / Context Engineer** for large language model
 
 I'm open for freelance, contract projects, and collaborations.
 
-<a href="https://t.me/tele_t" target="_blank">
-  <img src="https://img.shields.io/badge/Join%20OWL-Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Join OWL Telegram Channel">
-</a>
-
-→ Drop me a message on Telegram — let's talk code! 🦉
-
 <div align="center">
+  <a href="https://t.me/tele_t" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20OWL-Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Join OWL Telegram Channel">
+  </a>
+</div>
+
+<p align="center">
+  Drop me a message on Telegram — let's talk code! 🦉
+</p>
 
 Made with ❤️ &nbsp; Python &nbsp;•&nbsp; Code &nbsp;•&nbsp; Coffee
 

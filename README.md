@@ -59,16 +59,15 @@ Go (performance-critical services)
 I also work as a **Prompt Engineer / Context Engineer** for large language models  
 → writing precise system prompts, few-shot examples, chain-of-thought structures, tool-use definitions, long-context management
 
-### 📬 Let's Work Together
+### 📩 Join OWL & Let's Build Something Awesome
 
-I'm available for freelance / contract projects.
+I'm open for freelance, contract projects, and collaborations.
 
-→ <a href="https://t.me/tele_t">
-  <img src="https://img.shields.io/badge/Join%20OWL-Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Join OWL">
+<a href="https://t.me/tele_t" target="_blank">
+  <img src="https://img.shields.io/badge/Join%20OWL-Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Join OWL Telegram Channel">
 </a>
-→ Email: 🦉
 
-<br>
+→ Drop me a message on Telegram — let's talk code! 🦉
 
 <div align="center">
 

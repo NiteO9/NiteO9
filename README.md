@@ -30,7 +30,7 @@
 
 </div>
 
-### 🛠️ What I Build
+###  What I Build
 
 - Telegram Bots (automation, moderation, AI-powered, payment systems, scraping tools)
 - Static & dynamic websites (landing pages, portfolios, documentation sites)
@@ -40,7 +40,7 @@
 - Android applications (Kotlin / native)
 - And various other custom software solutions
 
-### 💻 Core Tech Stack
+###  Core Tech Stack
 
 **Primary Language**  
 Python (my main tool – 95%+ of my serious work)
@@ -54,12 +54,12 @@ Kotlin (Android native) • Flutter (cross-platform when needed)
 **Other**  
 Go (performance-critical services)
 
-### 🔧 Prompt & Context Engineering
+###  Prompt & Context Engineering
 
 I also work as a **Prompt Engineer / Context Engineer** for large language models  
 → writing precise system prompts, few-shot examples, chain-of-thought structures, tool-use definitions, long-context management
 
-### 📩 Join OWL & Let's Build Something Awesome
+###  Join OWL & Let's Build Something Awesome
 
 I'm open for freelance, contract projects, and collaborations.
 
